@@ -3,7 +3,7 @@
 ## Table of Contents
 + [Python Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#python-projects)
 + [SQL + Tableau Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#sql--tableau-projects)
-+ [Certificates]()
++ [Certificates](https://github.com/omarstinner/Portfolio/blob/main/README.md#certificates)
 + [Contact](https://github.com/omarstinner/Portfolio/blob/main/README.md#contact)
 
 ## Python Projects
