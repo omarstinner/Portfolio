@@ -29,11 +29,11 @@
 **`Description:`** This project aims to analyze the average SAT scores of high schools from the five boroughs of New York City. We will explore how the factors in each neighborhood influence the average SAT score of high schools. We will be specifically looking at the correlations and relationships between average SAT scores and demographic factors such as high school racial proportions.
 
 ### Exploring Employee Exit Surveys
-**`Notebook:`** [Exploring Employee Exit Surveys](https://nbviewer.org/github/omarstinner/Projects/blob/main/Analyzing%20Employee%20Exit%20Surveys.ipynb)<br />
+**`Notebook:`** [Exploring Employee Exit Surveys](https://nbviewer.org/github/omarstinner/Projects/blob/03ae9fc67cd91125ce5512efec15e46386d64857/Analyzing%20Employee%20Exit%20Surveys.ipynb)<br />
 **`Description:`** The aim of this study is to understand why employees resign from their jobs and what factors are associated with their dissatisfaction. We will be specifically exploring the reasons for resigning amongst short and long-term employees as well as between young and old employees.
 
 ### Exploring the Euro-US Dollar Exchange Rate Over The Years
-**`Notebook:`** [Exploring the Euro-US Dollar Exchange Rate Over The Years](https://github.com/omarstinner/Projects/blob/main/Exploring%20the%20Euro-US%20Dollar%20Exchange%20Rate%20Over%20The%20Years.ipynb)<br />
+**`Notebook:`** [Exploring the Euro-US Dollar Exchange Rate Over The Years](https://nbviewer.org/github/omarstinner/Projects/blob/03ae9fc67cd91125ce5512efec15e46386d64857/Exploring%20the%20Euro-US%20Dollar%20Exchange%20Rate%20Over%20The%20Years.ipynb)<br />
 **`Description:`** This project studies the Euro-US Dollar exchange rates over different time periods. The aim of this project is to visualize the exchange rates over such time periods and clearly show the fluctuations in the  Euro-US Dollar exchange rates. We specifically highlight moments when the US-Dollar is either stronger or weaker than the Euro. The main part of this project centers on the “period_selector” function which aims to simulate an exchange rate chart you would find on xe.com.
 
 ### Finding Heavy Traffic Indicators on the I-94
