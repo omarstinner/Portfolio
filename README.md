@@ -1,7 +1,7 @@
 # Omar Stinner Portfolio
 
 ## Table of Contents
-+ [Python Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#python-projects)<br />
++ [Python Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#python-projects)
 + [SQL + Tableau Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#sql--tableau-projects)
 + [Contact](https://github.com/omarstinner/Portfolio/blob/main/README.md#contact)
 
