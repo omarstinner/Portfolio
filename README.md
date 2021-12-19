@@ -79,7 +79,7 @@
 + [Data Cleaning in Python: Advanced Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
 + [Data Cleaning with Python Path](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
 + [Data Cleaning Project Walkthrough Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
-+ [Elements of the Command Line Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Elements of the Command Line Course](https://drive.google.com/file/d/19vUwPPbIjm_NcXFXE2Qt5YmcsWmS3hmu/view)
 + [Text Processing in the Command Line Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
 + [SQL Fundamentals Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
 + [Intermediate SQL for Data Analysis Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
