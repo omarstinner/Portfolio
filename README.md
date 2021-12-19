@@ -39,7 +39,7 @@
 **`Description:`** This project explores the different characteristics of car listings on "eBay Kleineanzeigen" - A German Marketplace used for selling various items and used cars. We specifically analyze different factors such as “price”, “mileage”, “brand” and the relationship between such factors to form a macro overview of the types of listings offered on the marketplace.
 
 ### Exploring Hacker News Posts
-**`Notebook:`** [Exploring Hacker News Posts](Link:https://nbviewer.org/github/omarstinner/Projects/blob/main/Exploring%20Hacker%20News%20Posts.ipynb)<br />
+**`Notebook:`**[Exploring Hacker News Posts](Link:https://nbviewer.org/github/omarstinner/Projects/blob/main/Exploring%20Hacker%20News%20Posts.ipynb)<br />
 **`Description:`** The aim of this project is to compare the two types of posts found on “Hacker News” - a popular social news website in the programming community. The two types of posts we will be looking at are: “Ask HN” posts - posts that ask the Hacker News community a question, and “Show HN” posts - posts to show the Hacker News community a project, product, or generally something interesting. We will be specifically looking to find which type of poss receives more comments on average and if posts receive more comments on average at specific times.
 
 ### Finding Profitable Mobile Application Opportunities
