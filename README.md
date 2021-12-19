@@ -3,6 +3,7 @@
 ## Table of Contents
 + [Python Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#python-projects)
 + [SQL + Tableau Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#sql--tableau-projects)
++ [Certificates]()
 + [Contact](https://github.com/omarstinner/Portfolio/blob/main/README.md#contact)
 
 ## Python Projects
@@ -64,6 +65,26 @@
 ### Analyzing Business Opportunities for The “Chinook” Online Music Store
 **`Notebook:`** [Analyzing Business Opportunities for The “Chinook” Online Music Store](https://github.com/omarstinner/Projects/blob/d987e9aa2081cd94195dc290059998884c65123c/Analyzing%20Business%20Opportunities%20for%20The%20%E2%80%9CChinook%E2%80%9D%20Online%20Music%20Store.ipynb)<br />
 **`Description:`** Throughout this project, we will be analyzing data based on an audio music streaming provider called "Chinook". The database contains information regarding music files, purchase invoices, employees, and customers. The aim of this project is to explore business opportunities available to “Chinook” through answering specific questions raised throughout the notebook. Such questions will focus on track, regional, and genre sales performance.
+
+## Certificates
++ [Python for Data Science: Fundamentals Part I Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Python for Data Science: Intermediate Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Python Basics for Data Analysis Path](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Pandas and NumPy Fundamentals Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Data Visualization Fundamentals Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Data Analysis and Visualization with Python Path](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Storytelling Data Visualization and Information Design Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Python for Data Science: Fundamentals Part II Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Data Cleaning and Analysis Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Data Cleaning in Python: Advanced Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Data Cleaning with Python Path](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Data Cleaning Project Walkthrough Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Elements of the Command Line Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Text Processing in the Command Line Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [SQL Fundamentals Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Intermediate SQL for Data Analysis Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Statistics Fundamentals Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
++ [Intermediate Statistics: Averages and Variability Course](https://drive.google.com/drive/folders/1vDQiqeP9lT7_S5_C2L1Se_UdZamUuglv)
 
 ## Contact
 + **`LinkedIn:`** [LinkedIn](https://www.linkedin.com/in/omar-stinner-987183177/)
