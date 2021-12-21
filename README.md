@@ -85,6 +85,7 @@
 + [Intermediate SQL for Data Analysis](https://drive.google.com/file/d/1rOsmAk64oikeoDlqoBYsWZvz3NtP81_e/view?usp=sharing)
 + [Statistics Fundamentals](https://drive.google.com/file/d/17GMU4pyHi-wpoXQmc-xgsFE73s6Ytapf/view?usp=sharing)
 + [Intermediate Statistics: Averages and Variability](https://drive.google.com/file/d/12CHBU7lE8y6GNyYzhGNwjemJvRYeY6Pg/view?usp=sharing)
++ [Introduction to Tableau](https://drive.google.com/file/d/17VKU9h32WXiTmEUFtP9VqJSZiuMFUn9w/view?usp=sharing)
 
 ## Contact
 + **`LinkedIn:`** [LinkedIn](https://www.linkedin.com/in/omar-stinner-987183177/)
