@@ -2,11 +2,24 @@
 
 ## Table of Contents
 + [Python Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#python-projects)
-+ [SQL + Tableau Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#sql--tableau-projects)
++ [SQL Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#sql--tableau-projects)
++ [Tableau Projects]()
 + [Certificates](https://github.com/omarstinner/Portfolio/blob/main/README.md#certificates)
 + [Contact](https://github.com/omarstinner/Portfolio/blob/main/README.md#contact)
 
 ## Python Projects
+
+### Predicting Click-Through-Rates
+**`Notebook:`** [Predicting Click-Through-Rates](https://nbviewer.org/github/omarstinner/Projects/blob/2340a8b405a9771e59bdcb0cf71d888dc14ece5b/Predicting%20Click-Through-Rate.ipynb)
+**`Description:`** An online advertisement space distributor is looking to implement a new strategy to increase revenue. They are planning on creating a new tier of impressions for their premium clients. Impressions included in this tier will have click-through rates in the top 30% of impressions. Clients subscribed to this program will pay a premium, increasing total revenue for the advertisement distributor. The goal of this project is to create a predictive model capable of predicting the likelihood of an impression being clicked. Those with a high click probability will be included in the mentioned “premium” tier, while the remaining impressions will be part of a standard tier, offered to standard clients.
+
+### Predicting Employee Attrition
+**`Notebook:`** [Predicting Employee Attrition](https://nbviewer.org/github/omarstinner/Projects/blob/2340a8b405a9771e59bdcb0cf71d888dc14ece5b/Predicting%20Employee%20Attrition.ipynb)
+**`Description:`** A company has been experiencing high levels of employee attrition and its associated costs. They are looking to avoid such situations in the future and have asked us to build a predictive model capable of predicting the probability of an employee resigning. With this model, our client will be able to identify high-risk employees and take appropriate measures to avoid financially strenuous outcomes. The goal of this study is to understand which factors influence employee attrition, predict the likelihood of an employee resigning, and devise a strategy to reverse an employee's decision to resign.
+
+### Predicting Order Demand
+**`Notebook:`** [Predicting Order Demand](https://nbviewer.org/github/omarstinner/Projects/blob/2340a8b405a9771e59bdcb0cf71d888dc14ece5b/Predicting%20Order%20Demand.ipynb)
+**`Description:`** A food delivery company is experiencing low turnover rates due to excess inventory. The majority of their inventory is made up of perishable goods, creating a further financial burden. They have asked us to build a predictive model capable of predicting demand for specific menu items for their distribution centers. With this model, our clients will be able to successfully order inventory amounts accordingly. The goal of this study is to better understand which factors influence the demand for specific menu items and predict the required inventory amount to increase the inventory turnover rate.
 
 ### Analyzing Kagglers By Data Roles
 **`Notebook:`** [Analyzing Kagglers By Data Roles](https://nbviewer.org/github/omarstinner/Projects/blob/2340a8b405a9771e59bdcb0cf71d888dc14ece5b/Analyzing%20Kagglers%20By%20Data%20Role.ipynb)<br />
@@ -65,6 +78,8 @@
 ### Analyzing Business Opportunities for The “Chinook” Online Music Store
 **`Notebook:`** [Analyzing Business Opportunities for The “Chinook” Online Music Store](https://github.com/omarstinner/Projects/blob/2340a8b405a9771e59bdcb0cf71d888dc14ece5b/Analyzing%20Business%20Opportunities%20for%20The%20%E2%80%9CChinook%E2%80%9D%20Online%20Music%20Store.ipynb)<br />
 **`Description:`** Throughout this project, we will be analyzing data based on an audio music streaming provider called "Chinook". The database contains information regarding music files, purchase invoices, employees, and customers. The aim of this project is to explore business opportunities available to “Chinook” through answering specific questions raised throughout the notebook. Such questions will focus on track, regional, and genre sales performance.
+
+### Tableau Projects
 
 ## Certificates
 + [Python for Data Science: Fundamentals Part I](https://drive.google.com/file/d/191gW2YvtUjq4M9qeJ3TDB93JYKLRncFd/view?usp=sharing)
