@@ -81,7 +81,14 @@
 
 ## Tableau Projects
 
+### Click-Through-Rate Dashboard
+**`Dashboard:`** [Click-Through-Rate Dashboard](https://public.tableau.com/app/profile/omar.stinner/viz/ClickThroughRateDashboard/Dashboard1)
 
+### Employee Attrition Dashboard
+**`Dashboard:`** [Employee Attrition Dashboard](https://public.tableau.com/app/profile/omar.stinner/viz/EmployeeAttritionDashboard_16438103326470/Dashboard1)
+
+### Order Demand Dashboard
+**`Dashboard:`** [Order Demand Dashboard](https://public.tableau.com/app/profile/omar.stinner/viz/FoodLogisticsDashboard/Dashboard2)
 
 ## Certificates
 + [Python for Data Science: Fundamentals Part I](https://drive.google.com/file/d/191gW2YvtUjq4M9qeJ3TDB93JYKLRncFd/view?usp=sharing)
