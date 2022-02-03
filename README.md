@@ -2,8 +2,8 @@
 
 ## Table of Contents
 + [Python Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#python-projects)
-+ [SQL Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#sql--tableau-projects)
-+ [Tableau Projects]()
++ [SQL Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#sql-projects)
++ [Tableau Projects](https://github.com/omarstinner/Portfolio/blob/main/README.md#tableau-projects)
 + [Certificates](https://github.com/omarstinner/Portfolio/blob/main/README.md#certificates)
 + [Contact](https://github.com/omarstinner/Portfolio/blob/main/README.md#contact)
 
