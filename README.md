@@ -68,11 +68,11 @@
 ## SQL Projects
 
 ### Exploring Airbnb Listings in Berlin
-**`Notebook:`** [Exploring Airbnb Listings in Berlin](https://github.com/omarstinner/Projects/blob/2340a8b405a9771e59bdcb0cf71d888dc14ece5b/Exploring%20Airbnb%20Listings%20in%20Berlin.ipynb)<br />
+**`Notebook:`** [Exploring Airbnb Listings in Berlin](https://github.com/omarstinner/Projects/blob/a7b14606071c2a61913384029d9d18edebf93d5b/Exploring%20Airbnb%20Listings%20in%20Berlin.ipynb)<br />
 **`Description:`** This project analyzes data based on Airbnb house rental listings in Berlin. The goal of this project is to answer specific questions regarding different listing characteristics such as “neighborhood”, “bedroom count”, “listing ratings”, “minimum stays” etc. The main focus of this project is answering specific questions raised throughout the notebook. Each question is accompanied by a visualization found on my public tableau dashboard (link provided in the introduction).
 
 ### Exploring the IMDb Database
-**`Notebook:`** [Exploring the IMDb Database](https://github.com/omarstinner/Projects/blob/2340a8b405a9771e59bdcb0cf71d888dc14ece5b/Exploring%20the%20IMDb%20Database.ipynb)<br />
+**`Notebook:`** [Exploring the IMDb Database](https://github.com/omarstinner/Projects/blob/a7b14606071c2a61913384029d9d18edebf93d5b/Exploring%20the%20IMDb%20Database.ipynb)<br />
 **`Description:`** The aim of this project is to explore the different performances of American movies and tv-shows made in and after the year 2000. A lot of the analysis will center on factors such as “actors”, “directors”, “title genres”, “title ratings”, “regional adaptations”, etc. and how they interact with each other. The main focus of this project is answering specific questions raised throughout the notebook. Each question is accompanied by a visualization found on my public tableau dashboard (link provided in the introduction).
 
 ### Analyzing Business Opportunities for The “Chinook” Online Music Store
